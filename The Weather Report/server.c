@@ -12,7 +12,7 @@
 //
 //  Created by Yashwanth Reddy Gurijala on 4/1/2020.
 //  Socket Tutorial used for help:- https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
-//  Copyright © 2020 Yashwanth Reddy Gurijala. All rights reserved.
+//  Copyright Â© 2020 Yashwanth Reddy Gurijala. All rights reserved.
 //
 
 #include <stdio.h>
